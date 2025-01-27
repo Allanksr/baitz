@@ -15,4 +15,4 @@ This is a desktop/windows-x64 program to connect to [Zello Walk Talk](https://ze
   <img src="https://raw.githubusercontent.com/Allanksr/baitz/refs/heads/main/PRINT/8.PNG" width="200px" title="imagem do programa">
 </div>
 
-[Baitz](https://github.com/Allanksr/baitz/releases/download/1.0.4/Baitz-1.0.4-win-x64.exe)
+[Baitz](https://github.com/Allanksr/baitz/releases/download/1.0.6/Baitz-1.0.6-win-x64.exe)
